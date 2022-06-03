@@ -2,9 +2,9 @@
 
 `Vence 10 de junho de 2022 às 23:59`
 
-- [ ] 1 - Fazer um programa que pergunta um valor em metros e imprime o correspondente em decímetros, centímetros e milímetros. ([Source](src/exercicio1.java))
+- [x] 1 - Fazer um programa que pergunta um valor em metros e imprime o correspondente em decímetros, centímetros e milímetros. ([Source](src/exercicio1.java))
 
-- [ ] 2 - Fazer um programa que solicita um número decimal e imprime o correspondente em hexa e octal. ([Source](src/exercicio2.java))
+- [x] 2 - Fazer um programa que solicita um número decimal e imprime o correspondente em hexa e octal. ([Source](src/exercicio2.java))
 
 - [ ] 3 - Fazer um programa que solicite 2 números e informe: ([Source](src/exercicio3.java))
 
