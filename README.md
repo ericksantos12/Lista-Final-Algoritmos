@@ -30,9 +30,9 @@
 
 - [x] 5 - Fazer um programa que imprime a tabela ASCII (código decimal, código hexa, caracter) para os códigos de 0 a 127. ([Source](src/exercicio5.java))
 
-- [x] 6 - Fazer um programa em "C" que lê o preço de um produto e inflaciona esse preço em 10% se ele for menor que 100 e em 20% se ele for maior ou igual a 100. ([Source](src/exercicio6.c))
+- [x] 6 - Fazer um programa em "C" que lê o preço de um produto e inflaciona esse preço em 10% se ele for menor que 100 e em 20% se ele for maior ou igual a 100. ([Source](c-src/exercicio6.c))
 
-- [x] 7 - Fazer um programa em "C" que lê 10 valores e imprime o maior e o menor valores lidos. ([Source](src/exercicio7.c))
+- [x] 7 - Fazer um programa em "C" que lê 10 valores e imprime o maior e o menor valores lidos. ([Source](c-src/exercicio7.c))
 
 - [x] 8 - Fazer um programa que lê um conjunto de 10 valores e os imprime ordenados. ([Source](src/exercicio8.java))
 
@@ -40,6 +40,6 @@
 
 - [x] 10 - Fazer uma rotina que recebe um array do tipo double e o número de valores que devem ser solicitados ao usuário e devolve o array preenchido com os valores digitados. ([Source](src/exercicio10.java))
 
-- [x] 11 - Fazer um programa em "C" que lê um conjunto de 10 valores inteiros e verifica se algum dos valores é igual a média dos mesmos. ([Source](src/exercicio11.c))
+- [x] 11 - Fazer um programa em "C" que lê um conjunto de 10 valores inteiros e verifica se algum dos valores é igual a média dos mesmos. ([Source](c-src/exercicio11.c))
 
 - [x] 12 - Fazer um programa que lê valores para uma matriz do tipo "float" de 5 linhas por 3 colunas e imprime a diferença entre a média dos elementos das colunas pares e a média dos elementos das linhas ímpares. ([Source](src/exercicio12.java))
