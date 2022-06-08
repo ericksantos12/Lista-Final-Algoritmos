@@ -40,7 +40,7 @@ public class exercicio12 {
         }
         mediaLinha /= contador;
 
-        System.out.println("A diferença das médias é: " + (mediaColuna - mediaLinha));
+        System.out.println("\nA diferença entre a média das colunas pares e a média das linhas ímpares é: " + (mediaColuna - mediaLinha));
 
     }
 
