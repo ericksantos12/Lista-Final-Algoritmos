@@ -1,14 +1,13 @@
 // Fazer um programa em "C" que lê um conjunto de 10 valores inteiros e verifica se algum dos valores é igual a média dos mesmos.
 
 #include <stdio.h>
-#include <limits.h>
 
 int main(int argc, char const *argv[])
 {
     int array[10];
     int media = 0;
 
-    int index = INT_MIN;
+    int index = -1;
     int valor = 0;
 
 
@@ -36,7 +35,7 @@ int main(int argc, char const *argv[])
 
 
 
-    if (index == INT_MIN)
+    if (index == -1)
     {
         printf("Nenhum valor encontrado");
     }
